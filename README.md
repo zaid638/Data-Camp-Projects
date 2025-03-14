@@ -43,7 +43,7 @@ They have supplied you with a csv file called `"bank_marketing.csv"`, which you 
 | `client_id` | `integer` | Client ID | N/A |
 | `cons_price_idx` | `float` | Consumer price index (monthly indicator) | N/A |
 | `euribor_three_months` | `float` | Euro Interbank Offered Rate (euribor) three-month rate (daily indicator) | N/A | <br/><br/>
-<br/><br/><br/><br/>
+
 
 ## [Data Engineer Associate Exam Virtual Reality Fitness](https://github.com/zaid638/Data-Camp-Projects/tree/main/Cleaning%20the%20Insurance%20Company%20Data%20Project) <br/><br/>
 
