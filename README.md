@@ -2,8 +2,6 @@
 
 ## [Building a Retail Data Pipeline Project](https://github.com/zaid638/Data-Camp-Projects/tree/main/Building%20a%20Retail%20Data%20Pipeline%20Project) <br/><br/>
 
-![ETL Pipeline](https://github.com/zaid638/Data-Camp-Projects/blob/main/Building%20a%20Retail%20Data%20Pipeline%20Project/Retail_ETL_Diagram.png) <br/><br/>
-
 In this project, I have been tasked with creating a data pipeline for the analysis of supply and demand around the holidays, along with conducting a preliminary analysis of the data. You will be working with two data sources: grocery sales and complementary data. You have been provided with the `grocery_sales` table in `PostgreSQL` database. Also, you have the `extra_data.parquet` file that contains complementary data.<br/><br/>
 
 ### Objective <br/><br/>
@@ -11,7 +9,9 @@ In this project, I have been tasked with creating a data pipeline for the analys
 * Need to merge those files and perform some data manipulations.<br/>
 * Store the transformed DataFrame as the `clean_data` variable containing the specific columns.<br/>
 * Analyze monthly sales and store the results of analysis as the `agg_data` variable.<br/>
-* Save the `clean_data` and `agg_data` as the csv files.<br/><br/><br/><br/>
+* Save the `clean_data` and `agg_data` as the csv files.<br/><br/>
+
+![ETL Pipeline](https://github.com/zaid638/Data-Camp-Projects/blob/main/Building%20a%20Retail%20Data%20Pipeline%20Project/Retail_ETL_Diagram.png) <br/><br/><br/><br/>
 
 ## [Performing a Code Review Project](https://github.com/zaid638/Data-Camp-Projects/tree/main/Performing%20a%20Code%20Review%20Project) <br/><br/>
 
