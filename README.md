@@ -2,6 +2,8 @@
 
 ## [Building a Retail Data Pipeline Project](https://github.com/zaid638/Data-Camp-Projects/tree/main/Building%20a%20Retail%20Data%20Pipeline%20Project) <br/><br/>
 
+![ETL Pipeline](https://github.com/zaid638/Data-Camp-Projects/blob/main/Building%20a%20Retail%20Data%20Pipeline%20Project/Retail_ETL_Diagram.png) <br/><br/>
+
 In this project, I have been tasked with creating a data pipeline for the analysis of supply and demand around the holidays, along with conducting a preliminary analysis of the data. You will be working with two data sources: grocery sales and complementary data. You have been provided with the `grocery_sales` table in `PostgreSQL` database. Also, you have the `extra_data.parquet` file that contains complementary data.<br/><br/>
 
 ### Objective <br/><br/>
