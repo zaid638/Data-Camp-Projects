@@ -1,5 +1,14 @@
 # Data-Camp-Projects <br/><br/><br/>
 
+## [Cleaning an Orders Dataset with PySpark Project](https://github.com/zaid638/Data-Camp-Projects/tree/main/Cleaning%20an%20Orders%20Dataset%20with%20PySpark%20Project) <br/><br/>
+
+In this project, I work with e-commerce company and used PySpark,  for data processing, to clean an orders dataset.<br/><br/>
+
+### Objective <br/><br/>
+
+* I have been requested by a peer Machine Learning team to clean the data containing the information about orders made last year. They are planning to further use this cleaned data to build a demand forecasting model. To achieve this, they have shared their requirements regarding the desired output format.<br/><br/>
+
+
 ## [Building a Retail Data Pipeline Project](https://github.com/zaid638/Data-Camp-Projects/tree/main/Building%20a%20Retail%20Data%20Pipeline%20Project) <br/><br/>
 
 In this project, I have been tasked with creating a data pipeline for the analysis of supply and demand around the holidays, along with conducting a preliminary analysis of the data. You will be working with two data sources: grocery sales and complementary data. You have been provided with the `grocery_sales` table in `PostgreSQL` database. Also, you have the `extra_data.parquet` file that contains complementary data.<br/><br/>
