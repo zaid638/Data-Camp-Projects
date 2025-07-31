@@ -1,0 +1,17 @@
+Data cleaning is an essential skill for any data professional.
+
+In this project, you will step into a role of a data engineer at an e-commerce company and use PySpark, a powerful tool for data processing, to clean an orders dataset.
+
+This hands-on experience will sharpen your ability to format, extract and amend data for further analysis.
+
+---------------------------------------------------------------------------------------
+
+As a Data Engineer at an electronics e-commerce company, Voltmart, you have been requested by a peer Machine Learning team to clean the data containing the information about orders made last year. They are planning to further use this cleaned data to build a demand forecasting model. To achieve this, they have shared their requirements regarding the desired output table format.
+
+An analyst shared a parquet file called "orders_data.parquet" for you to clean and preprocess.
+
+----------------------------------------------------------------------------------------
+
+# In this project, work with e-commerce company and used PySpark,  for data processing, to clean an orders dataset.
+
+# I have been requested by a peer Machine Learning team to clean the data containing the information about orders made last year. They are planning to further use this cleaned data to build a demand forecasting model. To achieve this, they have shared their requirements regarding the desired output format.
