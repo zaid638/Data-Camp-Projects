@@ -6,8 +6,8 @@ In this project, I work with e-commerce company and used PySpark,  for data proc
 
 ### Objective <br/><br/>
 
-* I have been requested by a peer Machine Learning team to clean the data containing the information about orders made last year. They are planning to further use this cleaned data to build a demand forecasting model. To achieve this, they have shared their requirements regarding the desired output format.<br/><br/>
-
+* I have been requested by a peer Machine Learning team to clean the data containing the information about orders made last year. They are planning to further use this cleaned data to build a demand forecasting model. To achieve this, they have shared their requirements regarding the desired output format.<br/><br/><br/><br/>
+---
 
 ## [Building a Retail Data Pipeline Project](https://github.com/zaid638/Data-Camp-Projects/tree/main/Building%20a%20Retail%20Data%20Pipeline%20Project) <br/><br/>
 
