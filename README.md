@@ -19,6 +19,7 @@ In this project, I have been tasked with creating a data pipeline for the analys
 * Store the transformed DataFrame as the `clean_data` variable containing the specific columns.<br/>
 * Analyze monthly sales and store the results of analysis as the `agg_data` variable.<br/>
 * Save the `clean_data` and `agg_data` as the csv files.<br/><br/>
+---
 
 ![ETL Pipeline](https://github.com/zaid638/Data-Camp-Projects/blob/main/Building%20a%20Retail%20Data%20Pipeline%20Project/Retail_ETL_Diagram.png) <br/><br/><br/><br/>
 
@@ -32,6 +33,7 @@ In this project, I worked with a procurement team, who is trying to decide the b
 * Refactor the code appropriately.<br/>
 * Re-work unit test to ensure that it matches the transformation logic in the function.<br/>
 * Ensure that unit tests execute with `ExitCode.OK`.<br/><br/><br/><br/>
+---
 
 ## [Audible Data Cleaning Using Python Project](https://github.com/zaid638/Data-Camp-Projects/tree/main/Audible%20Data%20Cleaning%20Using%20Python%20Project) <br/><br/>
 
@@ -48,6 +50,7 @@ In this project, I worked with a dataset of audiobooks downloaded from audible.i
 * Checking for duplicates.<br/>
 * Dealing with missing data.<br/>
 * Save the cleaned data set.<br/><br/><br/><br/>
+---
 
 ## [Cleaning Bank Marketing Campaign Data Project](https://github.com/zaid638/Data-Camp-Projects/tree/main/Cleaning%20Bank%20Marketing%20Campaign%20Data%20Project) <br/><br/>
 
@@ -55,7 +58,8 @@ I have been asked to work with a bank to clean the data they collected as part o
 
 ### Objective <br/><br/>
 
-They have supplied me with a csv file called `"bank_marketing.csv"`, which I need to clean, reformat, and split the data, saving three final csv files.<br/><br/><br/><br/>
+* They have supplied me with a csv file called `"bank_marketing.csv"`, which I need to clean, reformat, and split the data, saving three final csv files.<br/><br/><br/><br/>
+---
 
 ## [Data Engineer Associate Exam Virtual Reality Fitness](https://github.com/zaid638/Data-Camp-Projects/tree/main/Cleaning%20the%20Insurance%20Company%20Data%20Project) <br/><br/>
 
@@ -65,8 +69,18 @@ ActiVR provides a virtual reality device designed for exercise and fitness. They
 
 * Clean the data and present the data in specific type & format. <br/>
 * Write SQL quries to prepare some data before they start to run a new promotion. <br/><br/><br/><br/>
+---
 
 ## [Cleaning the Insurance Company Data Project](https://github.com/zaid638/Data-Camp-Projects/tree/main/Cleaning%20the%20Insurance%20Company%20Data%20Projecthttps://github.com/zaid638/Data-Camp-Projects/tree/main/Cleaning%20the%20Insurance%20Company%20Data%20Project) <br/><br/>
+
+I have been given some starting code with two functions: one that extracts and flattens JSON data into a structured format and the other that transforms electricity sales data by cleaning, filtering, and extracting relevant features. The company plans to use my revised code to improve the accuracy of sales analytics. <br/><br/>
+
+### Objective <br/><br/>
+
+* My task is to identify potential errors in the functions and the underlying data that might result in logic and runtime errors, such as missing values, incorrect data types, or incompatible values. Enhanced the custom functions provided by implementing exceptions to catch data quality issues and edge cases. <br/><br/><br/><br/>
+---
+
+## [Debugging Code](https://github.com/zaid638/Data-Camp-Projects/blob/main/Debugging%20Code/notebook.ipynb) <br/><br/>
 
 Travel Assured provides travel services to its customers. They are based in the United States. They provides everything from flights and hotel bookings to holiday insurance. The sales team wants to sell upgrades to customers. So they can do this, it is vital that the data is clean, accurate and available for reporting. They need help to prepare some data before they start to run a new promotion. <br/><br/>
 
@@ -74,6 +88,7 @@ Travel Assured provides travel services to its customers. They are based in the 
 
 * Clean the data and present the data in specific type & format. <br/>
 * Write SQL quries to prepare some data before they start to run a new promotion. <br/><br/><br/><br/>
+---
 
 ## [Exploring London's Travel Network Project](https://github.com/zaid638/Data-Camp-Projects/tree/main/Exploring%20London's%20Travel%20Network%20Project) <br/><br/>
 
