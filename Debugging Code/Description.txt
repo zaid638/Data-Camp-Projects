@@ -1,0 +1,14 @@
+
+
+You have been given some starting code with two functions: one that extracts and flattens JSON data into a structured format and the other that transforms electricity sales data by cleaning, filtering, and extracting relevant features. The company plans to use your revised code to improve the accuracy of sales analytics.
+
+Your task is to identify potential errors in the functions and the underlying data that might result in logic and runtime errors, such as missing values, incorrect data types, or incompatible values (e.g., negatives). Enhance the custom functions provided by implementing exceptions to catch data quality issues and edge cases.
+
+The data is available here ("sales_data_sample.csv") for the analyses. This data has 25 columns, but only two columns are analyzed, namely, `quantity_ordered` and `price_each`. A sample of the data is shown below.
+
+------------------------------------------------------------------------------------------
+
+# I have been given some starting code with two functions: one that extracts and flattens JSON data into a structured format and the other that transforms electricity sales data by cleaning, filtering, and extracting relevant features. The company plans to use my revised code to improve the accuracy of sales analytics.
+
+# My task is to identify potential errors in the functions and the underlying data that might result in logic and runtime errors, such as missing values, incorrect data types, or incompatible values. Enhanced the custom functions provided by implementing exceptions to catch data quality issues and edge cases.
+
